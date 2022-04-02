@@ -3,7 +3,7 @@
 
 My first simple flask api used to do simple mathematical calculations.
 
-`*Note*: This project is only for learning purpose.`
+`Note: This project is only for learning purpose.`
 
 
 ## Documentation
